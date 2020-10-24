@@ -22,6 +22,7 @@ Every time you are waiting for something, you have a decision to make which seem
 
 ## How is Blockchain Integrated
 
+
 **Why do we need a Blockchain? **
 
 
