@@ -12,8 +12,7 @@ Waiting in line, sitting in a coffee shop, stopped at a traffic light, many peop
 Being bored is a natural action we should take, but with the huge amount of easy stimulus we can find nowadays, it is less and less common. Studies have confirmed that boredom can actually makes you more creative, more altruistic, more likely to set goals for your future. 
 
 > "When you're bored your mind wanders. That's only natural. The state of boredom is one where your attention is not focused on anything in particular. Researches have shown this mind wandering is useful for creativity. 
-
-> "In the absence of boredom, one would remain trapped in unfulfilling situations, and miss out on many emotionally, cognitively and socially rewarding experiences. Boredom is both a warning that we're not doing what we want to be doing, and a push that motivates us to switch goals and projects."
+In the absence of boredom, one would remain trapped in unfulfilling situations, and miss out on many emotionally, cognitively and socially rewarding experiences. Boredom is both a warning that we're not doing what we want to be doing, and a push that motivates us to switch goals and projects."
 
 
 Every time you are waiting for something, you have a decision to make which seems like a tiny one. Head over your favorite social media app, or just **BeBored**, and **Experience Only Your Thoughts**. 
@@ -23,7 +22,7 @@ Every time you are waiting for something, you have a decision to make which seem
 ## How is Blockchain Integrated
 
 
-**Why do we need a Blockchain? **
+**Why do we need a Blockchain?**
 
 
 BeBored competes for the attention of its users with the largest tech companies in the world, which control the social networks used by billions of people. The problem of these social networks is that they are centrally controlled by a single entity, the tech company that developed it, which is not a non-profit, has only one goal: "Make Profit". 
